@@ -1,51 +1,50 @@
-# Welcome to my GitHub 🎭
-
-> *"Oh, it’s you. I suppose you’ve come to look at my code. Don’t worry, the cake is still a lie."*  
-
----
-
-## About Me 🧑‍💻
-- 16 y/o hobbyist developer (a fancy way of saying *I break things until they work*).  
-- I enjoy **web development**, **Unity game dev**, and occasionally bullying small microcontrollers like the **ESP32** into doing my bidding.  
-- Fluent in:  
-  - 🟩 Node.js  
-  - ⚛️ React  
-  - 🍃 MongoDB  
-  - 🐍 Python  
-  - 🎮 C# (mostly for Unity, not to make enterprise software, calm down)  
-  - 🌐 HTML / CSS  
-  - 🔷 TypeScript  
-  - 🖥️ Bash (a.k.a. arguing with the terminal until it listens)  
-- Hosting wizardry with **Google Cloud** ☁️.  
-
-When I’m not coding, I play games… which is probably why I haven’t finished half the projects you’ll see here.  
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFEA&center=true&vCenter=true&width=600&lines=Hello%2C+test+subject.;Welcome+to+my+GitHub+laboratory.;The+cake+is+still+a+lie." alt="Typing SVG" />
+</p>
 
 ---
 
-## My Projects 🔧
-
-- 🎬 **[Hikashow-New](https://github.com/saksham1059/hikashow-new)**  
-  A movie website where you can watch free movies. (*Disclaimer: Don’t tell Hollywood, please.*)  
-
-- 📡 **[Traject-O-Matic](https://github.com/saksham1059/Traject-O-Matic)**  
-  A science project demo for ESP8266. It’s as over-engineered as it sounds.  
-
-- 💬 **[Trychat](https://github.com/saksham1059/Trychat)**  
-  A static emergency chat using Firebase.  
-  (*I hate this project being open source, but here we are. Don’t look too closely.*)  
-
-- 🔄 **[Crossover-Trial-Reset](https://github.com/stacle-studios/crossover-trial-reset)**  
-  Does exactly what it says. Reset. Retry. Pretend it’s free forever.  
+## 👋 About Me
+- 🧑‍💻 16 y/o hobbyist developer (*definition: breaks things until they work*).  
+- ⚡ Good with **Web Dev, Unity, and ESP32**.  
+- 🎮 Plays games when not arguing with compilers.  
+- ☁️ I deploy my monsters on **Google Cloud**, because free hosting credits are life.  
 
 ---
 
-## More About Me 🌐
-- My website: [sakshamchugh.com](https://sakshamchugh.com)  
-  (*Spoiler: it’s about me.*)  
+## 🛠️ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,python,unity,cs,html,css,ts,bash,gcp" />
+</p>
 
 ---
 
-## Final Notes 🎤
-If you’ve made it this far: congratulations, you’ve wasted precious minutes of your life reading a teenager’s README.  
+## 🚀 Projects
+| Project | Description |
+|---------|-------------|
+| 🎬 [**Hikashow-New**](https://github.com/saksham1059/hikashow-new) | A movie website where you can watch free movies. (Don’t snitch to Hollywood.) |
+| 📡 [**Traject-O-Matic**](https://github.com/saksham1059/Traject-O-Matic) | ESP8266 science project demo. Makes Wi-Fi chips do science-y things. |
+| 💬 [**Trychat**](https://github.com/saksham1059/Trychat) | Static emergency chat using Firebase. (*I hate that this is open source, don’t remind me.*) |
+| 🔄 [**Crossover-Trial-Reset**](https://github.com/stacle-studios/crossover-trial-reset) | Resets Crossover trial. Reset. Retry. Repeat until eternity. |
 
-> *"Remember: If at first you don’t succeed, fail five more times until your Google searches start with ‘stackoverflow’."*  
+---
+
+## 🌐 Find Me Here
+- 🌎 Website: [**sakshamchugh.com**](https://sakshamchugh.com)  
+- 🎮 Steam? Probably playing instead of coding.  
+- 📡 Ping me through GitHub issues if you dare.  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saksham1059&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham1059&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+<p align="center">
+  <i>"If at first you don’t succeed, fail five more times until Google auto-completes your StackOverflow query."</i>
+</p>
