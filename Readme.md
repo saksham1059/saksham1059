@@ -6,7 +6,7 @@
 ---
 
 ## 👋 About Me
-- 🧑‍💻 16 y/o hobbyist developer (*definition: breaks things until they work*).  
+- 🧑‍💻 17 y/o hobbyist developer (*definition: breaks things until they work*).  
 - ⚡ Good with **Web Dev, Unity, and ESP32**.  
 - 🎮 Plays games when not arguing with compilers.  
 - ☁️ I deploy my monsters on **Google Cloud**, because free hosting credits are life.  
