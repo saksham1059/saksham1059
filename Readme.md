@@ -25,7 +25,7 @@
 |---------|-------------|
 | 🔄 [**Crossover-Trial-Reset**](https://github.com/stacle-studios/crossover-trial-reset) | Resets Crossover trial. Reset. Retry. Repeat until eternity. |
 | 📡 [**DTSx-Linux-Port**](https://github.com/saksham1059/dtsx-linux-port) | HP made linux user suffer with bad sound, had to fix it |
-| 🎬 [**Hikashow-New**](https://github.com/saksham1059/hikashow-new) | A movie website where you can watch free movies. (Don’t snitch to Hollywood.) |
+| 🎬 [**Hikashow-New**](https://github.com/saksham1059/hikashow-new) | A movie website where you can watch free movies.|
 | 💬 [**Trychat**](https://github.com/saksham1059/Trychat) | Static emergency chat using Firebase.|
 
 ---
