@@ -23,10 +23,10 @@
 ## 🚀 Projects
 | Project | Description |
 |---------|-------------|
-| 🎬 [**Hikashow-New**](https://github.com/saksham1059/hikashow-new) | A movie website where you can watch free movies. (Don’t snitch to Hollywood.) |
-| 📡 [**Traject-O-Matic**](https://github.com/saksham1059/Traject-O-Matic) | ESP8266 science project demo. Makes Wi-Fi chips do science-y things. |
-| 💬 [**Trychat**](https://github.com/saksham1059/Trychat) | Static emergency chat using Firebase. (*I hate that this is open source, don’t remind me.*) |
 | 🔄 [**Crossover-Trial-Reset**](https://github.com/stacle-studios/crossover-trial-reset) | Resets Crossover trial. Reset. Retry. Repeat until eternity. |
+| 📡 [**DTSx-Linux-Port**](https://github.com/saksham1059/dtsx-linux-port) | HP made linux user suffer with bad sound, had to fix it |
+| 🎬 [**Hikashow-New**](https://github.com/saksham1059/hikashow-new) | A movie website where you can watch free movies. (Don’t snitch to Hollywood.) |
+| 💬 [**Trychat**](https://github.com/saksham1059/Trychat) | Static emergency chat using Firebase.|
 
 ---
 
